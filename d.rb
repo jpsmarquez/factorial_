@@ -7,6 +7,8 @@ def factorial_recursive(number)
 end
 
 p factorial_recursive(3)
+p factorial_recursive(5)
+p factorial_recursive(7)
 p "--------------------------------------------------------------------"
 
 
@@ -20,3 +22,5 @@ def factorial_iterative(number)
 end
 
 p factorial_iterative(4)
+p factorial_iterative(21)
+p factorial_iterative(9)
